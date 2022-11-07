@@ -1,4 +1,9 @@
 # Core
 
+Jackrabbit is a cross-chain Decentralized Exchange that allows on-chain bond buying, staking, and trading. 
 
-Jackrabbit liquidity pools on FEVM are based on Uniswap V2. 
+The core of Jackrabbit is the EIP 3475 standard for Bonds on-chain. 
+
+Liquidity pools inspired by both Uniswap V2 and D/Bond Protocol.
+
+
