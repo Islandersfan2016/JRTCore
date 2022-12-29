@@ -3,7 +3,7 @@
 
 pragma solidity ^0.8.0;
 
-
+//This is a sample ERC-3475 On-chain Storage Bond Contract
 interface IERC3475 {
 
     // STRUCTURE
