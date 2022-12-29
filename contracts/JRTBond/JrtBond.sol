@@ -4,6 +4,7 @@ pragma solidity ^0.8.0;
 
 import "./IERC3475.sol";
 
+// This is a sample Jackrabbit version of the ERC-3475 On-chain Bond Storage
 contract JrtBond is IERC3475 {
     /**
      * @notice this Struct is representing the Nonce properties as an object
