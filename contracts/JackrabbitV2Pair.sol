@@ -9,7 +9,7 @@ import './interfaces/IERC20.sol';
 import './interfaces/IJackrabbitV2Factory.sol';
 import './interfaces/IJackrabbitV2Callee.sol';
 
-//This is based on the Uniswap V2
+//This is based on the Uniswap V2- no on FVM
 interface IMigrator {
     // Return the desired amount of liquidity token that the migrator wants.
     function desiredLiquidity() external view returns (uint256);
