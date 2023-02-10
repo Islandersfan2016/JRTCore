@@ -5,7 +5,7 @@ pragma solidity =0.6.12;
 import './interfaces/IJackrabbitV2Factory.sol';
 import './JackrabbitV2Pair.sol';
 
-// Jackrabbit Factory Contract
+// Jackrabbit Factory Contract- on FVM
 contract JackrabbitV2Factory is IJackrabbitV2Factory {
     bytes32 public constant INIT_CODE_PAIR_HASH = keccak256(abi.encodePacked(type(JackrabbitV2Pair).creationCode));
     address public override feeTo;
