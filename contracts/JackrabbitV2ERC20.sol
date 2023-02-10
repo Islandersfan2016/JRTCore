@@ -4,7 +4,7 @@ pragma solidity =0.6.12;
 
 import './libraries/SafeMath.sol';
 
-// Jackrabbit ERC20 contract
+// Jackrabbit ERC20 contract -JRT
 contract JackrabbitV2ERC20 {
     using SafeMathJackrabbit for uint;
 
