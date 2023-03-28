@@ -8,4 +8,6 @@ Liquidity pools inspired by both Uniswap V2 and D/Bond Protocol.
 
 All information on EIP 3475 can be found here: https://eips.ethereum.org/EIPS/eip-3475
 
+Jackrabbit will be deployed on both BNB Chain and the Filecoin Virtual Machine.
+
 
